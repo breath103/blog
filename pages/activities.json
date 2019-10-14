@@ -1,0 +1,143 @@
+[
+  {
+    "date": "2019-06-28",
+    "title": "AWSKRUG 클라우드 경력 개발 소모임",
+    "content": [
+      {
+        "type": "webpage",
+        "url": "https://www.meetup.com/awskrug/events/262154306"
+      }
+    ]
+  }, {
+    "date": "2019-05-14",
+    "title": "AWS Summit Seoul - 서버리스 기반 컨텐츠 추천 서비스 만들기",
+    "content": [
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=-LZFJ6BpplE"
+      },
+      {
+        "type": "webpage",
+        "url": "https://www.slideshare.net/awskorea/serverless-recommendation-ml"
+      }
+    ]
+  }, {
+    "date": "2019-05-14",
+    "title": "AWS Summit Seoul - 서버리스 기반 컨텐츠 추천 서비스 만들기",
+    "content": [
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=-LZFJ6BpplE"
+      },
+      {
+        "type": "webpage",
+        "url": "https://www.slideshare.net/awskorea/serverless-recommendation-ml"
+      }
+    ]
+  }, {
+    "date": "2019-05-14",
+    "title": "AWS Summit Seoul - 서버리스 기반 컨텐츠 추천 서비스 만들기",
+    "content": [
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=-LZFJ6BpplE"
+      },
+      {
+        "type": "webpage",
+        "url": "https://www.slideshare.net/awskorea/serverless-recommendation-ml"
+      }
+    ]
+  }, {
+    "date": "2019-04-27",
+    "title": "AWSKRUG Serverless HandsOn - Serverless 공유 그림판 만들기",
+    "content": [
+      {
+        "type": "github",
+        "url": "https://github.com/breath103/serverless-websocket-example"
+      },
+      {
+        "type": "webpage",
+        "url": "https://www.facebook.com/groups/awskrug/permalink/1799787043456645/"
+      },
+      {
+        "type": "webpage",
+        "url": "https://www.meetup.com/awskrug/events/260465015"
+      }
+    ]
+  }, {
+    "date": "2019-02-22",
+    "title": "AWS Serverless Hero Nomination",
+    "content": [
+      {
+        "type": "webpage",
+        "url": "https://aws.amazon.com/developer/community/heroes/kurt-lee"
+      }
+    ]
+  }, {
+    "date": "2018-07-11",
+    "title": "AWS This Is My Architecture",
+    "content": [
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=-rvZ4Ft5qQE"
+      },
+      {
+        "type": "facebook_post",
+        "url": "https://www.facebook.com/sanghyun.lee.7737/posts/1223469787753584"
+      }
+    ]
+  }, {
+    "date": "2018-05-01",
+    "title": "AWS Summit Seoul - Lambda@Edge를 통한 점진적 서버리스 이전 및 멑티 리전 트래픽 길들이기",
+    "content": [
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=zZ8Sn-vbsOE"
+      }
+    ]
+  }, {
+    "date": "2017-12-06",
+    "title": "TechTalk@Vingle - Serverless in Startup",
+    "content": [
+      {
+        "type": ""
+      }
+    ]
+  }, {
+    "date": "2017-06-02",
+    "title": "AWS DB Day - Amazon Athena 서비스 최신 기능 소개",
+    "content": [
+      {
+        "type": "webpage",
+        "url": "https://www.slideshare.net/awskorea/aws-big-data-and-analytics"
+      }
+    ]
+  }, {
+    "date": "2017-05-22",
+    "title": "인터뷰 - [AWS 써보니]이상현 ‘빙글’ 테크리드, “마이크로서비스아키턱처 매력에 푹”",
+    "content": [
+      {
+        "type": "webpage",
+        "url": "http://www.techsuda.com/archives/9687?fbclid=IwAR10yvFYqtyXNzEXxZOl6ccy-_z555KTznKkIJ_wQ4b-4GN9F5npAo4cxO0"
+      }
+    ]
+  }, {
+    "date": "2017-05-08",
+    "title": "AWS Summit Seoul - Vingle의 AWS 기반 서버리스 마이크로 서비스 구현 사례",
+    "content": [
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=CM47-1UpgOc"
+      }
+    ]
+  }, {
+    "date": "2016-10-13",
+    "title": "Akamai Case Study",
+    "content": [
+      {
+        "type": "webpage",
+        "url": "https://www.akamai.com/kr/ko/multimedia/documents/case-study/customer-stories-vingle.pdf"
+      }
+    ]
+  }
+]

@@ -1,5 +1,20 @@
 [
   {
+    "date": "2019-11-08",
+    "title": "Fireside Chat",
+    "content": [
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=4vwXY0SGnDo"
+      }, {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=ve8Mq6ASWy4"
+      }, {
+        "type": "youtube",
+        "url": "https://www.youtube.com/watch?v=ut2k3s2arJQ"
+      }
+    ]
+  }, {
     "date": "2019-06-28",
     "title": "AWSKRUG 클라우드 경력 개발 소모임",
     "content": [
